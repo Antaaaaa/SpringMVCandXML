@@ -1,0 +1,24 @@
+<parent>
+    <contact>
+            <group>
+                <id>1</id>
+                <name>Test</name>
+            </group>
+            <email>anatoliy@gmail.com</email>
+            <id>100</id>
+            <name>Anatoliy</name>
+            <phone>0661231231</phone>
+            <surname>Me</surname>
+    </contact>
+    <contact>
+            <group>
+                <id>1</id>
+                <name>Test</name>
+            </group>
+            <email>anatoliy@gmail.com</email>
+            <id>100</id>
+            <name>Anatoliy</name>
+            <phone>0661231231</phone>
+            <surname>Me</surname>
+    </contact>
+</parent>
